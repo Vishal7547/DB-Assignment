@@ -1,6 +1,6 @@
 # Future Skills Assignment
 
-## Explain the relationship between the "Product" and "Product_Category" entities from the above diagram.
+## Q1.) Explain the relationship between the "Product" and "Product_Category" entities from the above diagram.
 
 ### The diagram shows a relational database schema for an e-commerce system. The two relevant entities fo this question are :
 
@@ -57,7 +57,7 @@ On the other hand, the Product_Category document would look like this:
 
 ```
 
-## How could you ensure that each product in the "Product" table has a valid category assigned to it?.
+## Q2.) How could you ensure that each product in the "Product" table has a valid category assigned to it?.
 
 ### There are a couple of ways to ensure that each product in the "Product" table has a valid category assigned to it in MongoDB:
 
