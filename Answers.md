@@ -40,10 +40,13 @@ In this scenario, the Product document would contain a reference (typically the 
   "category_id": ObjectId("609c5e9d9e8c275f43530001"),
   "price": 19.99
 }
-In this example, the category_id field references the _id of the Product_Category document to which this product belongs.
+```
+
+In this example, the category_id field references the \_id of the Product_Category document to which this product belongs.
 
 On the other hand, the Product_Category document would look like this:
 
+```json
 
 {
   "_id": ObjectId("609c5e9d9e8c275f43530001"),
